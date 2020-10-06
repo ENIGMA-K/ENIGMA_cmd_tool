@@ -9,13 +9,13 @@ method.h 记录了运行程序所需要的全部方法
 storage.h 记录了全部需要储存的内容，包括具体的轮
 
 ## 命令
-. '-set' show your settings
-. '-rn [NUM]' set ring numbers
-. '-rs [SEL1][SEL2][SEL3]' choose rings you want to use
-. '-rp [POS1][POS2][POS3]' set rings position
-. '-fs [SEL]' choose reflexing board you want to use
-. '-fp [POS]' set reflexing board position
-. '-c [NUM][PR1a][PR1b][PR2a][PR2b]' set connection board
-. '--' start/end coding/decoding
-. '-f' enter a file route and the file can be code/decode(only avilable for .txt)
-. '-q' quit the program
+1.'-set' show your settings\n
+2.'-rn [NUM]' set ring numbers\n
+3.'-rs [SEL1][SEL2][SEL3]' choose rings you want to use\n
+4.'-rp [POS1][POS2][POS3]' set rings position\n
+5.'-fs [SEL]' choose reflexing board you want to use\n
+6.'-fp [POS]' set reflexing board position\n
+7.'-c [NUM][PR1a][PR1b][PR2a][PR2b]' set connection board\n
+8.'--' start/end coding/decoding\n
+9.'-f' enter a file route and the file can be code/decode(only avilable for .txt)\n
+10.'-q' quit the program\n
